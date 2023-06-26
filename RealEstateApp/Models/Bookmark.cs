@@ -14,5 +14,5 @@ public class Bookmark
     public int UserId { get; set; }
 
     [JsonProperty("propertyId")]
-    public int PropertyId { get; set; }
+    public int PropertyId { get; set; } 
 }
